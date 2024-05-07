@@ -1,4 +1,8 @@
 library(tidyverse)
-library(palmerpenguins)
+
+read_csv("penguins.csv")
+
+penguins <- read_csv("penguins.csv")
 
 penguins
+view()
